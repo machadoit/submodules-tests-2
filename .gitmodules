@@ -1,0 +1,3 @@
+[submodule "configs-test-2"]
+	path = configs-test-2
+	url = git@github.com:machadoit/configs-test-2.git
